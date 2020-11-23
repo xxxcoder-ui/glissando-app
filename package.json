@@ -41,7 +41,8 @@
     "build:docs": "mmdc -i docs/diagram.mmd -o docs/diagram.svg"
   },
   "dependencies": {
-    "@glissando/glissando-synth": "^0.1.3"
+    "@glissando/glissando-synth": "^0.1.3",
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
     "@open-wc/eslint-config": "^2.0.0",
